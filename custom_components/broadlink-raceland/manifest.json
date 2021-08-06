@@ -1,0 +1,11 @@
+{
+  "codeowners": ["zroger49"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/RACELAND-Automacao-Lda/broadlink-raceland",
+  "domain": "broadlink-raceland",
+  "iot_class": "local_polling",
+  "name": "Broadlink-Raceland",
+  "requirements": [],
+  "version": "0.1.0"
+}
