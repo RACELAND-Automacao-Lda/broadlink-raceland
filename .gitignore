@@ -1,1 +1,3 @@
-script/
+script
+scripts/const.py
+scripts/discover_devices_broadlink.py
