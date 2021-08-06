@@ -6,6 +6,6 @@
   "domain": "broadlink-raceland",
   "iot_class": "local_polling",
   "name": "Broadlink-Raceland",
-  "requirements": [],
+  "requirements": ["broadlink==0.17.0"],
   "version": "0.1.0"
 }
