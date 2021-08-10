@@ -1,0 +1,2 @@
+handle_register_broadlink_devices: 
+  description: Scans the avaiable broadlink devices and registers them

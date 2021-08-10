@@ -1,7 +1,7 @@
 """Test component setup."""
 from homeassistant.setup import async_setup_component
 
-from custom_components.broadlink-raceland.const import DOMAIN
+from custom_components.broadlink_raceland.const import DOMAIN
 
 
 async def test_async_setup(hass):

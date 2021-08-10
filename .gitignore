@@ -1,4 +1,1 @@
-script
-scripts/const.py
-scripts/discover_devices_broadlink.py
-scripts/__pycache__/
+scripts/
